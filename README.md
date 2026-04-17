@@ -16,8 +16,7 @@ The release of *Pokémon GO* in 2016 introduced location-based gameplay elements
 
 To answer this, we analyze Yelp check-in data over time, comparing restaurants located near PokéStops to those farther away.
 
-## 🎥 Presentation
-View the full project presentation here:  
+#### View the full project presentation here:  
 https://canva.link/5ek0qy6puzpox4m
 
 ---
@@ -67,18 +66,6 @@ https://canva.link/5ek0qy6puzpox4m
 - Compared changes in check-ins before and after Pokémon GO release  
 - Evaluated relative differences between treatment (near PokéStops) and control groups  
 
----
-
-## 🗂️ Project Structure
-
-```
-pokestops-analysis/
-├── data/                     # Yelp and PokéStop datasets
-├── notebooks/               # Analysis notebooks (EDA, modeling)
-├── scripts/                 # Data processing and analysis code
-├── visualizations/          # Heatmaps and plots
-└── README.md                # Project documentation
-```
  
  ---
 
